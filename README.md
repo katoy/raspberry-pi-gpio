@@ -10,6 +10,8 @@ See also
 - http://fritzing.org/home/
   Fritzing
 
+- https://mega.nz/#F!jE9ADCKT!d93dOZq9FjPRoVRCyBaBJA
+  Kuman Starter Kit for Raspberry Pi3 K71
 
 書籍 「カラー図解 最新 Raspberry Piで学ぶ電子工作」の例を履修していく。
 プログラムコードは適宜、自分なりに書き換えていく。
